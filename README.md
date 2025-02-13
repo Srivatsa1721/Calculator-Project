@@ -20,7 +20,7 @@ Follow these steps to run the project on your computer:
 
 1. **Clone the repository** (or download ZIP)
    ```sh
-   git clone (https://github.com/Srivatsa1721/Calculator-Project).git
+   git clone https://github.com/Srivatsa1721/Calculator-Project.git
 Alternatively, you can Download ZIP from GitHub and extract it.
 
 2️. **Open the Project in VSCode**
