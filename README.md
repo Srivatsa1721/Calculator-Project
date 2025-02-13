@@ -37,9 +37,7 @@ Click File > Open Folder... and select the project folder (calculator-project).
 
 - Right-click index.html in VSCode.
 - Select "Open with Live Server".
-- Your browser will open the calculator at:
-
-http://127.0.0.1:5500/
+- Your browser will open the calculator at: http://127.0.0.1:5500/
 
 5️. **Test the Calculator**
 
