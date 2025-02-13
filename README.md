@@ -3,7 +3,7 @@
 A simple calculator that evaluates mathematical expressions, supporting **addition (+), subtraction (-), multiplication (*), division (/), and parentheses ()**.
 
 ## 🔹 Live Demo
-Try it here: (https://Srivatsa1721.github.io/calculator-project/)
+Try it here: https://github.com/Srivatsa1721/Calculator-Project
 
 ---
 
@@ -20,4 +20,4 @@ Follow these steps to run the project on your computer:
 
 1. **Clone the repository** (or download ZIP)
    ```sh
-   git clone https://github.com/Srivatsa1721/calculator-project.git
+   git clone (https://github.com/Srivatsa1721/Calculator-Project).git
