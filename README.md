@@ -44,3 +44,5 @@ Click File > Open Folder... and select the project folder (calculator-project).
 - Enter a mathematical expression.
 - Click the "Calculate" button.
 - The result will be displayed instantly.
+
+![image](https://github.com/user-attachments/assets/001267b1-5d2b-4e5f-b268-32bbb666b19d)
