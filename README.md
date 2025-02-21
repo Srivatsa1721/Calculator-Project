@@ -5,6 +5,7 @@ A simple calculator that evaluates mathematical expressions, supporting **additi
 ## 🔹 Live Demo
 Try it here: https://github.com/Srivatsa1721/Calculator-Project
 
+![image](https://github.com/user-attachments/assets/001267b1-5d2b-4e5f-b268-32bbb666b19d)
 ---
 
 ##  Features
@@ -45,4 +46,4 @@ Click File > Open Folder... and select the project folder (calculator-project).
 - Click the "Calculate" button.
 - The result will be displayed instantly.
 
-![image](https://github.com/user-attachments/assets/001267b1-5d2b-4e5f-b268-32bbb666b19d)
+
